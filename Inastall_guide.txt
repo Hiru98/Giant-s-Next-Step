@@ -5,3 +5,11 @@ flutter doctor
 flutter doctor --android-licenses
 
 flutter pub get
+
+flutter devices
+flutter emulators
+flutter emulators --launch <emulator id>
+flutter emulators --launch Pixel_9
+flutter emulators --launch Medium_Phone_API_35
+
+flutter run
