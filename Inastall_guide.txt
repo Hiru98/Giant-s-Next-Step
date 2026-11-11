@@ -13,3 +13,6 @@ flutter emulators --launch Pixel_9
 flutter emulators --launch Medium_Phone_API_35
 
 flutter run
+
+plase commit this
+
